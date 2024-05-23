@@ -93,7 +93,7 @@ rounded-social-buttons {
     text-align: center;
   }
   
-  .rounded-social-buttons .social-button {
+.rounded-social-buttons .social-button {
     display: inline-block;
     position: relative;
     cursor: pointer;
@@ -128,6 +128,12 @@ rounded-social-buttons {
   }
   .rounded-social-buttons .social-button.email {
     background: #d06a67;
+  }
+
+  .rounded-social-buttons .social-button.email:hover, .rounded-social-buttons .social-button.email:focus {
+    color: #d06a67;
+    background: #fefefe;
+    border-color: #d06a67;
   }
   
   .rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
