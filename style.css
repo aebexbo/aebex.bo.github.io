@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Manrope', sans-serif;
+    box-sizing: border-box;
 }
 
 
@@ -192,4 +193,12 @@ rounded-social-buttons {
     border-color: #125688;
   }
 
+#calendario iframe {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
  
+
+  
+  
