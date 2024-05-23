@@ -77,16 +77,16 @@ body {
 }
 
 #inicio .inicio_text {
-    margin-top: 100px; /* Adjust as needed */
-    margin-left: 30px; /* Adjust as needed */
+    margin-top: 100px; 
+    margin-left: 30px; 
 }
 
 #contactanos{
     text-align: center;
     background-color: #ddd;
     position: relative; 
-    height: 100px;
-    margin-top: -100px;
+    height: 50px;
+    margin-top: -200px;
 }
 
 rounded-social-buttons {
@@ -103,7 +103,7 @@ rounded-social-buttons {
     padding: 0;
     text-decoration: none;
     text-align: center;
-    color: #fefefe;
+    color: #ffffff;
     font-size: 1.5625rem;
     font-weight: normal;
     line-height: 2em;
@@ -125,6 +125,9 @@ rounded-social-buttons {
   
   .rounded-social-buttons .social-button.facebook {
     background: #3b5998;
+  }
+  .rounded-social-buttons .social-button.email {
+    background: #d06a67;
   }
   
   .rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
@@ -182,3 +185,5 @@ rounded-social-buttons {
     background: #fefefe;
     border-color: #125688;
   }
+
+ 
