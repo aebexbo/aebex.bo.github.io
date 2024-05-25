@@ -47,7 +47,7 @@
 #paragraph_requisitos {
     margin-top: 20px;  
     width: 800px;  
-    height: 270px;  
+    height: 280px;  
     background-color: #f0f0f0;  
     padding: 20px;  
     box-sizing: border-box;  
@@ -70,9 +70,54 @@
     margin-top: 20px;  
     padding: 15px 25px;
     text-decoration: none;
+    border: 2px solid #000;  
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
   }
 
 
   .button:hover {
     background-color: #223094;
   }
+
+ .welcome_message{
+    text-align: center;
+ }
+
+ .welcome_message h1{
+    font-size: 65px;
+    color: white;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    border-color: black;
+ }
+ .welcome_message h3{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: white;
+ }
+
+ .welcome_message a{
+    margin-top: 50 px;
+    font-size: 23 px; 
+    color: white; 
+    text-decoration: none; 
+    border: 2px solid #f0f0f0;
+    padding: 15px 25px; 
+    border-radius: 50;
+    transition: 0.3s;
+
+ }
+
+ .welcome_message a.hover{
+    background-color:rgba(0, 0, 0, 0.4) ;
+    color: pink;
+
+ }
+
+
+ .background-clip{
+    position: absolute;
+    right: 0;
+    bottom: 0; 
+    z-index: -1;
+ }

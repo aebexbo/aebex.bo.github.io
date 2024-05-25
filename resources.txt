@@ -3,3 +3,5 @@
 https://www.w3schools.com/howto/howto_js_topnav.asp
 https://www.youtube.com/watch?v=u4O2GKjgMlg 
 footer: https://codepen.io/deutschland2k/pen/qKpdJX
+buttons: https://www.freecodecamp.org/news/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/
+mainpage: https://www.youtube.com/watch?v=-unASUgYtVI 
