@@ -125,3 +125,9 @@
     transform: translate(-50%, -50%);
     z-index: -1;
 }
+
+#about {
+    margin-top: 150px; /* Adjust the value as needed to avoid overlap */
+    z-index: 2;
+    position: relative;
+}
