@@ -6,3 +6,4 @@ footer: https://codepen.io/deutschland2k/pen/qKpdJX
 buttons: https://www.freecodecamp.org/news/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/
 mainpage: https://www.youtube.com/watch?v=-unASUgYtVI 
 confetti button: chatgpt
+add images: https://www.w3schools.com/css/css3_images.asp
