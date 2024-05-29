@@ -167,6 +167,11 @@ footer {
     background-color: #ddd;
 }
 
-.inicio{
-    margin-bottom: 50 px;
+#inicio {
+    background: 
+        linear-gradient(rgba(246, 237, 70, 0.5), rgba(26, 26, 183, 0.5)), 
+        url('image_college.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
 }
